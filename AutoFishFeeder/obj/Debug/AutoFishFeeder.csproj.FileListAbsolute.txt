@@ -1,0 +1,9 @@
+C:\Users\Hank\Documents\GitHub\AutoFishFeeder\AutoFishFeeder\bin\Debug\AutoFishFeeder.exe.config
+C:\Users\Hank\Documents\GitHub\AutoFishFeeder\AutoFishFeeder\bin\Debug\AutoFishFeeder.exe
+C:\Users\Hank\Documents\GitHub\AutoFishFeeder\AutoFishFeeder\bin\Debug\AutoFishFeeder.pdb
+C:\Users\Hank\Documents\GitHub\AutoFishFeeder\AutoFishFeeder\obj\Debug\AutoFishFeeder.csprojResolveAssemblyReference.cache
+C:\Users\Hank\Documents\GitHub\AutoFishFeeder\AutoFishFeeder\obj\Debug\AutoFishFeeder.Form1.resources
+C:\Users\Hank\Documents\GitHub\AutoFishFeeder\AutoFishFeeder\obj\Debug\AutoFishFeeder.Properties.Resources.resources
+C:\Users\Hank\Documents\GitHub\AutoFishFeeder\AutoFishFeeder\obj\Debug\AutoFishFeeder.csproj.GenerateResource.Cache
+C:\Users\Hank\Documents\GitHub\AutoFishFeeder\AutoFishFeeder\obj\Debug\AutoFishFeeder.exe
+C:\Users\Hank\Documents\GitHub\AutoFishFeeder\AutoFishFeeder\obj\Debug\AutoFishFeeder.pdb
